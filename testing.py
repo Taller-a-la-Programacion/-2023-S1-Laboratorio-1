@@ -21,4 +21,4 @@ def test_sonImpares_1():
     assert Lab1.sonImpares(1357) == True
     
 def test_sonImpares_2():
-    aassert Lab1.sonImpares(4131) == False
+    assert Lab1.sonImpares(4131) == False
