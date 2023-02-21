@@ -8,7 +8,7 @@ def test_areaTrapecio_1():
     assert Lab1.areaTrapecio(10, 5, 5) == 37.5
 
 def test_grupoPoblacion_1():
-    assert Lab1.grupoPoblacion(15) == "Adolecentes"
+    assert Lab1.grupoPoblacion(15) == "Adolescentes"
 
 def test_grupoPoblacion_2():
     assert Lab1.grupoPoblacion(5) == "Niños"
